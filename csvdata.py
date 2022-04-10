@@ -17,4 +17,4 @@ for i in la:
     else:
         print(i)
         
-print(f"completed work{la[1]},and name -> {la[3]}")
+print(f"completed work{la[1]},and name -> {la[3]}") 
