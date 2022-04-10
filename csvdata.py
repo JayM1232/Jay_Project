@@ -22,4 +22,4 @@ la = fn.func(la,6,"hello")
 #         for j in i:
 #             print(j,end=" ,")
 #     else:
-#         print(i) 
+#         print(i)     d
